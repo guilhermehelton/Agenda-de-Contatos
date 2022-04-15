@@ -1,5 +1,5 @@
 # Agenda-de-Contatos
-Sistema de agenda de contatos usando ReactJS e PostrgeSQL com ORM Sequelize
+Sistema de agenda de contatos usando ReactJS e PostrgeSQL com ORM Sequelize.
 Nele é possível adicionar contatos, busca-los com o nome do contato e pode ser direcionado diretamente para uma conversa no whatsapp.
 
 
